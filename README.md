@@ -1,6 +1,12 @@
 # push_chat
 
-A new Flutter project.
+Push Chat App - Notificações Push
+
+ > Para fazer este App funcionar você vai precisar do arquivo `android/app/google-services.json` que é fornecido na configuração do Firebase e da chave do One Signal que também será fornecida durante a configuração
+
+https://onesignal.com
+
+https://firebase.google.com
 
 ## Getting Started
 
